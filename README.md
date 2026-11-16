@@ -67,8 +67,4 @@ The pipeline checks innings completion and chase outcomes, and checks selected p
 
 Revised targets, shortened games, abandoned matches, super overs and two other domestic tournaments are excluded. The six-run wicket value and pressure cutoffs are assumptions. Individual opponents and pitch conditions are not modelled. A high rating describes this sample and carries uncertainty, especially near the eligibility threshold.
 
-## Project background
 
-Prepared with AI assistance for analysis, implementation and report editing. This repository contains the analytical pipeline and exported results. The source report is included as a PDF. Raw competition data and PDF authoring tools are omitted.
-
-Before publishing, review the competition's data-sharing terms and explain the method in your own words. Add your name and the competition link to this README if you want them displayed on your profile.
